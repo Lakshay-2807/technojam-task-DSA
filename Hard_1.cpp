@@ -17,10 +17,6 @@ int main(){
     int a,b;
     cout<<"Enter the interval range (a and b) : ";
     cin>>a>>b;
-    if(a>b){
-        cout<<"Error: Invalid interval. 'a' should be less than or equal to 'b'. "<<endl;
-        return 1;
-    }
     cout<<"Prime numbers in the interval ["<<a<<", "<<b<< "] are: ";
     for(int i=a;i<=b;i++) {
         if(isPrime(i)) {
