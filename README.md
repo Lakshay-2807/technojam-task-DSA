@@ -27,8 +27,7 @@ to find the factorial I used a while loop and multiplied the decremented values 
 
 HARD1- 
 In this question we have to find the prime numbers present between the range provided .
-so in this question I firstly made a function to check whether a number is prime or not , with the help of for loop by using if condition . the simply we just called the function in the main and got the desired result .
-
+so in this question we used nested loop to check whether the number is prime or not by the help of bool datatype . and if condition . and if it is prime than print it . the main thing in this code was to initialize the for loop with Range1 and iterating it till R2 . 
 
 
 
@@ -38,3 +37,5 @@ I faced a few challenges too , there are some topics which I've not studied comp
 Alse I didn't took care of the time complexity of the codes , I just used Brute force for solving the questions
 they can be optimised in future . 
 And theres a question in Hard category 3rd question in which I am unable to think of an approach .
+
+In question MEDIUM_3 where we have to find the factorial of large numbers . In this i am facing a problem that my code is not calculating value above "65" .
