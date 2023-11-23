@@ -1,7 +1,7 @@
 # technojam-task-DSA
 
 INTRODUCTION-
-My name is Lakshay Garg . I am second year student of B.Tech CSE from Galgotias University. Currently started studying DSA in C++ . I want to join the TECHNOJAM club so as to meet new people who have same interests , and to learn from them and gaze experience from seniors . and specially to be in an environment of coding culture.
+My name is Lakshay Garg . I am second year student of B.Tech CSE from Galgotias University. Currently studying DSA . C++ is my prefered language currently . I want to join the TECHNOJAM club so as to meet new people who have same interests , and to learn from them and gaze experience from seniors . and specially to be in an environment of coding and create a culture of coding .
 
 
 
