@@ -1,3 +1,8 @@
+// Decimal -> binary -> Reverse -> Decimal
+// THERE IS AN ISSUE IN THIS CODE 
+//IT WORK FOR ONLY 4 BITs
+
+
 #include<iostream>
 #include<vector>
 using namespace std;
